@@ -5,13 +5,11 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=veqtadev" alt="veqtadev" /></a> </p> -->
 
-- 🔭 I’m currently working on [Eldoria](https://discord.gg/VBNmNJfGHY)
 
-- 🌱 I’m currently learning **Figma**
 
-- 🔭 I’m currently working on [Nova Guard](https://discord.gg/FHwwYqP8wu)
+- 🌱 I’m currently mastering **Figma**
 
-- 🔭 I’m currently working on [Visual Dev](https://discord.gg/GshXbYPkTP)
+- 🔭 I’m currently working on [Forge Studios](https://discord.gg/forgestudios)
 
 - 📫 How to reach me **louismonier13@gmail.com**
 
