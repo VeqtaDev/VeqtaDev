@@ -11,4 +11,6 @@
 
 - 🔭 I’m currently working on [Forge Studios](https://discord.gg/forgestudios)
 
-- 📫 How to reach me **lustucru123** on discord !
+- 🎮 Official [cfx.re](https://cfx.re) contributor !
+
+- 📫 How to reach me **veqtaaa** on discord !
