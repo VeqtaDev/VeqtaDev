@@ -1,16 +1,20 @@
-<h1 align="center">Hi 👋, I'm Veqta</h1>
-<h3 align="center">A passionate full stack developer from France</h3>
+<p align="center">
+  <img src="assets/hero.svg" width="100%" alt="Veqta - Full-stack developer, specialised in front-end design." />
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=veqtadev&label=Profile%20views&color=0e75b6&style=flat" alt="veqtadev" /> </p>
+<p align="center">
+  <img src="assets/about.svg" width="100%" alt="Front-end with React, full stack with Next.js, design in Figma, motion and 3D in Blender." />
+</p>
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=veqtadev" alt="veqtadev" /></a> </p> -->
+<p align="center">
+  <img src="assets/stack.svg" width="100%" alt="Stack: TypeScript, React, Next.js, Tailwind, Node.js, Prisma, PostgreSQL, Figma, Blender, Vercel" />
+</p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/VeqtaDev/VeqtaDev/output/kpi.svg" width="100%" alt="Contribution stats" />
+  <img src="https://raw.githubusercontent.com/VeqtaDev/VeqtaDev/output/activity.svg" width="100%" alt="Activity tracker" />
+</p>
 
-
-- 🌱 I’m currently mastering **Figma and Lua**
-
-- 🔭 I’m currently working on [Forge Studios](https://discord.gg/forgestudios)
-
-- 🎮 Official [cfx.re](https://cfx.re) contributor !
-
-- 📫 How to reach me **veqtaaa** on discord !
+<p align="center">
+  <img src="assets/info.svg" width="100%" alt="Based in France. Discord: veqtaaa." />
+</p>
